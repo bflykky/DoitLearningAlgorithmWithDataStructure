@@ -19,7 +19,6 @@ public class Q16 {
                     System.out.print("*");
             }
             System.out.println();
-
         }
 
 
