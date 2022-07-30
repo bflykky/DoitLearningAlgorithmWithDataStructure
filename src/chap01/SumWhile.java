@@ -22,5 +22,9 @@ public class SumWhile {
         }
         System.out.println("1부터 " + n + "까지의 합은 " + sum + "이다.");
         System.out.println("while문(for문)이 끝난 후 i의 값: " + i);
+
+        char c = '5';
+//        System.out.println(String.format("%x", (int)(c - 17)));
+        System.out.println((int) c);
     }
 }
