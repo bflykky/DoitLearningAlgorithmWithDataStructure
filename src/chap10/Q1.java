@@ -19,10 +19,10 @@ public class Q1 {
 		test.add(3, 3);
 		test.add(2, 2);
 
-		System.out.println("-----------오름차순---------");
+		System.out.println("-----------오름차순-----------");
 		test.print();
 		System.out.println();
-		System.out.println("-----------내림차순---------");
+		System.out.println("-----------내림차순-----------");
 		test.printReverse();
 	}
 }
